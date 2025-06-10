@@ -13,3 +13,5 @@ O branch `master` da API pode ser visualizado __[aqui](https://bacen.github.io/p
 # Release atual: 2.8.2
 
 * A release atual da API Pix pode ser encontrada neste __[link](https://github.com/bacen/pix-api/releases/tag/2.8.2)__.
+
+Para uma introdução simplificada, consulte [docs/guia_basico.md](docs/guia_basico.md).
